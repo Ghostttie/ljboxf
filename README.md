@@ -41,10 +41,6 @@
 
 [github]: https://github.com/ljboxf
 [website]: https://manifestrp.eu
-[twitter]: 
-[youtube]: 
-[instagram]: 
-[linkedin]: 
 
 <!--
 **ljboxf/ljboxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
