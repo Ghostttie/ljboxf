@@ -2,14 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=manifestrp.eu&style=for-the-badge&url=https%3A%2F%2Fmanifestrp.eu)](https://manifestrp.eu)
 
-## I'm a 23 year old plasterer from the United Kingdom that enjoys video games in their spare time
-
-- 🔭 I just launched an awesome Garry's Mod project
-- 🌱 I’m currently learning how to retain information 🤣
-- 👯 I’m looking to expand the project with other developers
-- 🥅 2022 Goals: Have the project ready for public release by Q3 2022
-- ⚡ Fun fact: I also run a LFG discord, join at (discord.gg/7mrtEtBAtV)
-
 
 ### Connect with me:
 
